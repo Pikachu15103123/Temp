@@ -9,7 +9,7 @@
 #include<stdio.h>
 
 void printyourname(){
-	printf("I am Durant.");
+	printf("I am Durant."); // change are here.
 }
 
 int main(){
